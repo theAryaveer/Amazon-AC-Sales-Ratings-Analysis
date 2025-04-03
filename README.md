@@ -4,7 +4,7 @@
 This project analyzes air conditioners listed on Amazon, focusing on pricing, ratings, and discount trends. The insights help identify the best-rated ACs, pricing segments with the highest satisfaction, and overall market trends.
 
 ## Dataset Information
-- **Source**: https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset*
+- **Source**: https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
 - **Format**: CSV
 - **Columns**: Product name, category, sub-category, image, link, ratings, number of ratings, discount price, and actual price.
 - **Size**: 720 records
