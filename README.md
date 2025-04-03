@@ -1,10 +1,10 @@
 Amazon AC Sales & Ratings Analysis
 
-📌 Project Overview
+Project Overview
 
 This project analyzes air conditioners listed on Amazon, focusing on pricing, ratings, and discount trends. The insights help identify the best-rated ACs, pricing segments with the highest satisfaction, and overall market trends.
 
-📊 Dataset Information
+ Dataset Information
 
 Source: Kaggle - Amazon AC Dataset (Replace with actual link)
 
@@ -14,7 +14,7 @@ Columns: Product name, category, sub-category, image, link, ratings, number of r
 
 Size: 720 records
 
-🔥 Key Insights
+Key Insights
 
 Ratings Analysis: Identified top-rated ACs and segments with high customer satisfaction.
 
@@ -24,7 +24,7 @@ Discount Impact: Explored how discounts influence customer preferences.
 
 Brand Performance: (Dataset lacks brand info; future datasets could add value.)
 
-📈 Visualizations & Analysis
+Visualizations & Analysis
 
 Histograms: Price distribution of air conditioners.
 
